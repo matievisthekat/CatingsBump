@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/MatievisTheKat/CatingsBump#readme",
   "dependencies": {
-    "discord.js": "^12.2.0",
+    "discord.js": "^13.14.0",
     "dotenv": "^8.2.0",
     "mongoose": "^5.9.14",
     "ms": "^2.1.2"
